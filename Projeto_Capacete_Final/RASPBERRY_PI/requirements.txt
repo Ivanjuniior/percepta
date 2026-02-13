@@ -1,0 +1,4 @@
+# Dependencias Pi 4 Leves
+opencv-python-headless
+gpiozero
+rpi-lgpio
