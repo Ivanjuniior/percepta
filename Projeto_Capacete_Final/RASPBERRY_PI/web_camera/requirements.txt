@@ -1,2 +1,1 @@
-# Instale em ambiente virtual separado ou reutilize o OpenCV já instalado pelo Percepta.
 opencv-python-headless
